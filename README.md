@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robertostefan
 - 👀 I’m interested in Electricity involved StartUps and inventions, Gaming, Sanda, Chess, Piano, Snowboarding
-- 🌱 I’m currently learning C/C++, Rust, 
+- 🌱 I’m currently learning C/C++, Rust, Java
 - 💞️ I’m looking to collaborate on Electrical Engineering projects 
 - 📫 How to reach me: robertogstefan@gmail.com or Insta roberto0_0stefan
 - 😄 Pronouns: He/Him
