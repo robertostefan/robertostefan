@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @robertostefan
+- 👀 I’m interested in Electricity involved StartUps and inventions, Gaming, Sanda, Chess, Piano, Snowboarding
+- 🌱 I’m currently learning C/C++, Rust, 
+- 💞️ I’m looking to collaborate on Electrical Engineering projects 
+- 📫 How to reach me: robertogstefan@gmail.com or Insta roberto0_0stefan
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Your brain is actually electric! It uses about 20 watts of electricity each day to function. That's about the same amount of energy a typical light bulb uses in an hour. Pretty amazing how your thoughts and actions are powered by tiny electrical signals!
